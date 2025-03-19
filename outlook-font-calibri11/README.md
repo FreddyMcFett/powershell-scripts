@@ -1,4 +1,4 @@
-# Standard-Schriftarten und -Stile für Outlook über Intune setzen
+# Calibri 11 Font Standardmässig für Outlook über Intune Remediation
 
 ## Einführung
 Diese Anleitung beschreibt, wie Sie die Standard-Schriftarten und -Stile für Microsoft Outlook über Microsoft Intune festlegen können. Dies wird durch die Bereitstellung eines PowerShell-Skripts realisiert, das die aktuellen Outlook-Schriftarteneinstellungen überprüft und ggf. korrigiert.
